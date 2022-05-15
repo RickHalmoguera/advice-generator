@@ -4,7 +4,7 @@
 <h1>Preview del proyecto<h1>
 <img align="center" src="advice.gif"/>
 
-<h1>Funciones principales<h1>
+<h1>Funciones principales</h1>
   <ul>
     <li>Dar la bienvenida al cliente e indicarle como funciona.</li>
     <li>Tener un hover effect sobre el botón para que el cliente sepa que es clickeable.</li>
