@@ -10,6 +10,7 @@
     <li>Tener un hover effect sobre el botón para que el cliente sepa que es clickeable.</li>
     <li>Mostrar el número del consejo.</li>
     <li>Ajustar el tamaño del cuadro contenedor según el largo del texto.</li>
+    <li>IMPORTANTE: solo se puede hacer un request cada 2 segundos, si hacemos repetidos request en menos de dos segundos veremos el mismo consejo en la pantalla.</li>
   </ul>
   
   <h1>Recursos utilizados</h1>
