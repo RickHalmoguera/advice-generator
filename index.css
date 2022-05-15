@@ -1,0 +1,100 @@
+/*-------------------------------------GLOBAL STYLES-----------------------*/
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --main-bg-color:#1f2632;
+    --sec-bg-color:#323a49;
+    
+    --main-fc:#cee3e9;
+    --sec-fc: #52ffa8;
+
+    --main-ff:'Manrope', sans-serif;
+
+    --main-fs:28px;
+
+    --main-bn-color: #52ffa8;
+    --sec-bn-color:#1f2632;
+}
+
+
+body{
+    height: 100vh;
+    background: var(--main-bg-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: var(--main-ff);
+    font-size: var(--main-fs);
+}
+
+
+
+/*-------------------------------------MAIN CONTAINER STYLES-----------------------*/
+main{
+    padding: 1em 1em 2em 1em; 
+    width: 340px;
+    min-height: 347px;
+    background: var(--sec-bg-color);
+    border-radius: 20px;
+    text-align: center;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    
+}
+
+/*-------------------------------------TEXT STYLES-----------------------*/
+.advice-number-container{
+
+    color: var(--sec-fc);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: .8rem;
+    font-weight: 400;
+
+}
+
+.advice-text-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--main-fc);
+    font-weight: 800;
+    min-height: 200px;
+    width: 100%;
+}
+.line-container{
+    background: url(./images/pattern-divider-mobile.svg);
+    background-repeat:no-repeat; 
+    background-position:50% 50%;
+    height: 16px;
+    width: 100%;
+}
+
+/*-------------------------------------BUTTON STYLES-----------------------*/
+.button{
+    height: 64px;
+    width: 64px;
+    background-color:var(--main-bn-color) ;
+    background-image: url(./images/icon-dice.svg);
+    background-position:50% 50%;
+    background-repeat:no-repeat; 
+    border-radius: 50%;
+    position: absolute;
+    bottom: -30px;
+}
+
+.button:hover{
+    cursor: pointer;
+    -webkit-box-shadow: 0px -1px 50px -10px #52FFA8; 
+    box-shadow: 0px -1px 50px -10px #52FFA8;
+}
+
+.button:active{
+    opacity: .8;
+}
