@@ -1,5 +1,5 @@
 <h1>Advice Generator</h1>
-<p>Este proyecto pertenece a uno de los retos de <a href="https://www.frontendmentor.io/home">Frontend Mentor</a> que tiene como función principal mostrar al usuario un consejo cada vez que haga click en el boton</p>
+<p>Este proyecto pertenece a uno de los retos de <a href="https://www.frontendmentor.io/home">Frontend Mentor</a> que tiene como función principal mostrar al usuario un consejo cada vez que haga click en el botón</p>
 
 <h1>Preview del proyecto<h1>
 <img align="center" src="advice.gif"/>
@@ -15,13 +15,12 @@
   
   <h1>Recursos utilizados</h1>
   <ul>
-    <li><a href="https://api.adviceslip.com/">Advice API</a></li>
-    <p>Esta API proporciona cientos de cnosejos al usuario, tiene las funciones de buscar de forma aleatoria, por Id o modo redes sociales, que mostrará un consejo aleatorio por dia, para más información se puede consultar en la documentaciñon del API.</p>
+      <li><a href="https://api.adviceslip.com/">Advice API</a></li>
+    <p>Esta API proporciona cientos de consejos al usuario, tiene las funciones de buscar de forma aleatoria, por Id o modo redes sociales, que mostrará un consejo aleatorio por día, para más información se puede consultar en la documentación del API.</p>
     <li><a href="https://www.frontendmentor.io/home">Frontend Mentor</a></li>
-    <p>Pagina Web que proporciona toda la información necesaria para realizar proyectos como estos.</p>
+    <p>Página Web que proporciona toda la información necesaria para realizar proyectos como estos.</p>
   </ul>
-  
   <h1>Código</h1>
   <p>Con toda libertad puedes bajar o clonar este repositorio!</p>
-  <p>Si tienes algún comentario o tienes una mejor forma de desarrollar el código no dudes en comentarlo! Sharing Is Caring!</p>
+  <p>Si tienes algún comentario o tienes una mejor forma de desarrollar el código, no dudes en comentarlo! Sharing Is Caring!</p>
 
