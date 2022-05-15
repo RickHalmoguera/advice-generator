@@ -22,5 +22,5 @@
   
   <h1>Código</h1>
   <p>Con toda libertad puedes bajar o clonar este repositorio!</p>
-  <p>Si tienes algún comentario o tienes una mejor forma de desarrollar el código no dudes en comentarlo! Sharing Is Caring</p>
+  <p>Si tienes algún comentario o tienes una mejor forma de desarrollar el código no dudes en comentarlo! Sharing Is Caring!</p>
 
