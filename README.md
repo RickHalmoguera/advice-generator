@@ -12,4 +12,10 @@
     <li>Ajustar el tamaño del cuadro contenedor según el largo del texto.</li>
   </ul>
   
+  <h1>Recursos utilizados</h1>
+  <ul>
+    <li><a href="https://api.adviceslip.com/">Advice API</a></li>
+    <p>Esta API proporciona cientos de Advices al usuario, tiene las funciones de buscar random, por Id o modo redes sociales, que      mostrara un Advice aleatorio por dia, para más información se puede consultar en la documentaciñon del API.</p>
+</ul>
+  
 
